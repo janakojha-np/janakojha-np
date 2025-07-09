@@ -5,7 +5,7 @@
 - 🌱 currently learning **advanced React and modern web technologies**
 - 💬 Ask me about **PHP, React, Java**
 ## My Tech stack :
-## My Tech stack :
+
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,php,react,tailwind,linux,bash,gcp,mysql" />
