@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi 👋, I'm Janak Ojha 
 
-<!--
-**janakojha-np/janakojha-np** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🔭 I'm currently working on **web development projects**
+- 🌱 currently learning **advanced React and modern web technologies**
+- 💬 Ask me about **PHP, React, Java**
+## My Tech stack :
+## My Tech stack :
 
-Here are some ideas to get you started:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,php,react,tailwind,linux,bash,gcp,mysql" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🏆 Holopin Badges:
+<div align="center">
+  <a href="https://holopin.io/@janak4552">
+     <img src="https://holopin.me/janakojha" alt="@janakojha's Holopin badges, which is a link to view their full Holopin profile" />
+    <img src="https://holopin.me/janak4552" alt="@janak4552's Holopin badges, which is a link to view their full Holopin profile" />
+
+  </a>
+</div>
+<hr>
+
+## 🌟 Open Source Contributions:
+As an experienced open source contributor, I've participated in various community projects and events. My Holopin badges showcase my journey in the open source ecosystem, from Hacktoberfest contributions to community engagement and project collaborations.
+
+<p align="center">
+  <i>⭐️ From <a href="https://github.com/janakojha-np">Janak Ojha</a></i>
+</p>
