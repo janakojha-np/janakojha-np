@@ -3,7 +3,9 @@
 ## 🚀 About Me
 - 🔭 I'm currently working on **web development projects**
 - 🌱 currently learning **advanced React and modern web technologies**
-- 💬 Ask me about **PHP, React, Java**
+- 💬 Ask me about **PHP, React, Java** <br>
+- 🧭 Portfolio: [🌐 janakojha.vercel.app](https://janakojha.vercel.app)
+
 ## My Tech stack :
 
 
