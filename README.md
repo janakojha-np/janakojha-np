@@ -1,11 +1,10 @@
-<!-- Full-width rounded banner -->
+
 <p align="center">
   <img src="https://files.catbox.moe/cyrox5.gif" 
        alt="Banner"
        width="100%" 
-       style="max-height:80px; border-radius:20px; object-fit:cover;" />
+       style="height:390px; object-fit:cover; border-radius:20px;" />
 </p>
-
 # Hi 👋, I'm Janak Ojha 
 
 ## 🚀 About Me
