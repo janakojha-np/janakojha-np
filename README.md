@@ -17,7 +17,7 @@
 
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,php,react,tailwind,linux,bash,gcp,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,php,react,tailwind,linux,bash,mysql" />
 </p>
 
 
